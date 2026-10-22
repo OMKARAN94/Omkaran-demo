@@ -1,4 +1,4 @@
 # Omkaran-demo
 This is my first Git Repository
 <br>
-Author - Omkarna Pal
+Author - Omkarna Pal(Sistec)
